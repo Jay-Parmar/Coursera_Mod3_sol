@@ -1,0 +1,35 @@
+.navbar{
+    background-color: rgb(156, 155, 155);
+    border-bottom: 5px solid grey;
+    margin-bottom: 20px;
+}
+.navbar-toggler{
+    background-color: rgb(209, 211, 211);
+    border: 2px solid grey;
+}
+.navbar-toggler:hover, .navbar-toggler:active, .nav-item:hover{
+    background-color: beige;
+}
+#collapsable-nav{
+    background-color: aqua;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.navbar-brand h1{
+    color: rgb(124, 124, 124);
+    text-transform: uppercase;
+    text-shadow: -2px 2px 1px #222;
+}
+.col-xs-12{
+    background-color: yellowgreen;
+    border: 2px solid green;
+    padding: 10px 10x 10px 10px;
+    margin: 15px 15px 15px 15px;
+}
+.content{
+    padding: 10px 10px 10px;
+}
+
+
